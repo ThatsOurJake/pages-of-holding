@@ -34,5 +34,5 @@ export const middleware = (request: NextRequest) => {
 };
 
 export const config = {
-  matcher: ['/((?!static|favicon.ico|_next).*)']
+  matcher: ['/', '/portfolio', '/placeholder']
 };
