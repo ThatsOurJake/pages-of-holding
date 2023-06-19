@@ -40,6 +40,7 @@ const Portfolio: NextPage = () => {
           <a className="hover:underline" href="https://thatsourjake.co.uk">ThatsOurJake.co.uk</a>
           <a className="hover:underline" href="https://thatsourjake.com">ThatsOurJake.com</a>
           <a className="hover:underline" href="https://jakeki.ng">Jakeki.ng</a>
+          <a className="hover:underline" href="https://jake-is.gay">Jake-is.gay</a>
         </div>
       </main>
     </Container>
