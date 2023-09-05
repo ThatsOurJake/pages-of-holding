@@ -33,7 +33,8 @@ const Portfolio: NextPage = () => {
           <div className="w-full md:w-2/3 lg:w-9/12 py-2 px-4 flex flex-col space-y-2">
             <a href="http://github.com/thatsourjake" className="p-4 border-4 border-white bg-purple-100 hover:bg-purple-200 rounded-md text-lg">💻 Github</a>
             <a href="https://www.instagram.com/thatsourjake" className="p-4 border-4 border-white bg-purple-100 hover:bg-purple-200 rounded-md text-lg">📷 Instagram</a>
-            <a href="https://twitter.com/ThatsOurJake" className="p-4 border-4 border-white bg-purple-100 hover:bg-purple-200 rounded-md text-lg">🐦 Twitter</a>
+            <a href="https://www.threads.net/@thatsourjake" className="p-4 border-4 border-white bg-purple-100 hover:bg-purple-200 rounded-md text-lg">🧵 Threads</a>
+            <a href="https://thatsourjake.blog" className="p-4 border-4 border-white bg-purple-100 hover:bg-purple-200 rounded-md text-lg">📚 thatsourjake.blog</a>
           </div>
         </div>
         <div className="mt-1 flex space-x-2 flex-wrap text-sm justify-center">
